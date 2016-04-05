@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonyMemo", "PonyMemo\PonyMemo.csproj", "{71AB665A-C1A9-47FA-A812-019B2DB92B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponit", "Ponit\Ponit.csproj", "{EE6E7225-AB2D-4569-A6BD-8D25697D7888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tietoja", "Tietoja\Tietoja.csproj", "{905340A7-24EC-4886-822E-798484056EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71AB665A-C1A9-47FA-A812-019B2DB92B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AB665A-C1A9-47FA-A812-019B2DB92B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AB665A-C1A9-47FA-A812-019B2DB92B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AB665A-C1A9-47FA-A812-019B2DB92B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE6E7225-AB2D-4569-A6BD-8D25697D7888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE6E7225-AB2D-4569-A6BD-8D25697D7888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE6E7225-AB2D-4569-A6BD-8D25697D7888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE6E7225-AB2D-4569-A6BD-8D25697D7888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905340A7-24EC-4886-822E-798484056EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905340A7-24EC-4886-822E-798484056EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905340A7-24EC-4886-822E-798484056EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905340A7-24EC-4886-822E-798484056EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
